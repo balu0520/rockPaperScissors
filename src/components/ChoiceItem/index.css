@@ -1,0 +1,11 @@
+.choice-btn {
+  background-color: transparent;
+  border-width: 0;
+  outline: none;
+  cursor: pointer;
+  margin: 15px;
+}
+.choice-image {
+  height: 150px;
+  width: 150px;
+}

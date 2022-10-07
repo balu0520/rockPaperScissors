@@ -1,0 +1,42 @@
+.play-again-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  width: 80%;
+}
+.you-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.you-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+}
+.result-container {
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.result-heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+}
+.play-again-btn {
+  background-color: #ffffff;
+  color: #223a5f;
+  width: 135px;
+  height: 35px;
+  outline: none;
+  cursor: pointer;
+  border-width: 0;
+}
+.choice-icon {
+  height: 200px;
+  width: 200px;
+}
